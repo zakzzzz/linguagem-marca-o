@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+h1{
+    /* o atributo important prioriza o elemento em relação a outro */
+    color: rgb(0, 17, 255)
+}
+
+.img-menor {
+    width: 0px;
+    height: auto;
+}
+
+.img-menor2 {
+    width: 2000px;
+    height: 500px;
+}
+
+.img3{
+    width: 100;
+    height: auto;
+}
+
+.fonte-grande {
+    font-size: 100px;
+}
+
+.fonte-grande2 {
+    font-size: 40px;
+}
+
